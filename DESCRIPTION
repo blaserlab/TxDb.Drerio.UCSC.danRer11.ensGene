@@ -1,0 +1,16 @@
+Package: TxDb.Drerio.UCSC.danRer11.ensGene
+Title: Annotation package for TxDb object(s)
+Description: Exposes an annotation databases generated from UCSC by exposing these as TxDb objects
+Version: 1.0.0
+Author: Brad Blaser <bradley.blaser@osumc.edu> [cre]
+Maintainer: Brad Blaser <bradley.blaser@osumc.edu>
+Depends: GenomicFeatures (>= 1.50.4)
+Imports: AnnotationDbi
+License: MIT + file LICENSE
+organism: Danio rerio
+species: Danio rerio
+provider: UCSC
+provider_version: danRer11 genome based on the ensGene table
+release_date: 2023-03-20 09:52:36 -0400 (Mon, 20 Mar 2023)
+resource_url: http://genome.ucsc.edu/
+biocViews: AnnotationData, Genetics, TxDb, Danio_rerio

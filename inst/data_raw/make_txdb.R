@@ -1,0 +1,1 @@
+GenomicFeatures::makeTxDbPackageFromUCSC(version = "1.0.0", maintainer = "Brad Blaser <bradley.blaser@osumc.edu>", author = "Brad Blaser <bradley.blaser@osumc.edu>", destDir = "/workspace/brad_workspace", genome = "danRer11", tablename = "ensGene")
