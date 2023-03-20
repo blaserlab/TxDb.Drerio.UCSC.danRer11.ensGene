@@ -14,3 +14,5 @@ provider_version: danRer11 genome based on the ensGene table
 release_date: 2023-03-20 09:52:36 -0400 (Mon, 20 Mar 2023)
 resource_url: http://genome.ucsc.edu/
 biocViews: AnnotationData, Genetics, TxDb, Danio_rerio
+URL: https://github.com/blaserlab/TxDb.Drerio.UCSC.danRer11.ensGene
+BugReports: https://github.com/blaserlab/TxDb.Drerio.UCSC.danRer11.ensGene/issues
